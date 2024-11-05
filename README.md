@@ -1,8 +1,8 @@
 # Hey, I’m Teafr
-I can't live without improving, so everyday I'm working hard on learning something new.
-Progress is really vital, so I try to practice more and get new expiriance.<br>
+I can't live without improving, so everyday I'm working hard on learning something new.<br>
+Progress is really vital, so I try to practice more and get new expiriance.
 
-### I can be your:
+### I can be:
 - Software Engineer
 - Software Developer
 - Digital Artist
