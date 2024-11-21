@@ -2,6 +2,12 @@
 I can't live without improving, so everyday I'm working hard on learning something new.<br>
 Progress is really vital, so I try to practice more and get new expiriance.
 
+### Repositories navigation:
+- [Class Library for arrays](https://github.com/teafr/Class-Library-for-Arrays)
+- [WinForms App which predicts future](https://github.com/teafr/Predictor-APP)
+- [WinForms App which edit your text](https://github.com/teafr/Text-Editor-app)
+- [There I gathered my little projects](https://github.com/teafr/Collection-of-practice)
+
 ### I can be:
 - Software Engineer
 - Software Developer
