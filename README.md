@@ -3,10 +3,10 @@ I can't live without improving, so everyday I'm working hard on learning somethi
 Progress is really vital, so I try to practice more and get new expiriance.
 
 ### Repositories navigation:
-- [Class Library for arrays](https://github.com/teafr/Class-Library-for-Arrays)
-- [WinForms App which predicts future](https://github.com/teafr/Predictor-APP)
-- [WinForms App which edit your text](https://github.com/teafr/Text-Editor-app)
-- [There I gathered my little projects](https://github.com/teafr/Collection-of-practice)
+- ASP.NET Core Web API project: [Books API](https://github.com/teafr/Books-API)
+- Class Library project: [Arrays Library](https://github.com/teafr/Class-Library-for-Arrays)
+- Windows Forms App Projects: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
+- [There I gathered my little projects of different types](https://github.com/teafr/Collection-of-practice)
 
 ### I can be:
 - Software Engineer
