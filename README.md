@@ -1,9 +1,10 @@
-# I’m Teafr
+# Teafr
 I can't live without improving, so everyday I'm working hard on learning something new.<br>
 Progress is really vital, so I try to practice more and get new expiriance.
 
 ### Repositories navigation:
 - ASP.NET Core Web API project: [Books API with Swagger](https://github.com/teafr/Books-API)
+- ASP.NET Core Empty project: [ShopItems API with Authentication](https://github.com/teafr/ShopItems-API)
 - Class Library project: [Arrays Library](https://github.com/teafr/Class-Library-for-Arrays)
 - Windows Forms App Projects: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - [There I gathered my little projects of different types](https://github.com/teafr/Collection-of-practice)
