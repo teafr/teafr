@@ -1,6 +1,4 @@
 # Teafr
-I can't live without improving, so everyday I'm working hard on learning something new.<br>
-Progress is really vital, so I try to practice more and get new expiriance.
 
 ### Repositories navigation:
 - ASP.NET Core Web API project with Swagger: [Books API](https://github.com/teafr/Books-API)
