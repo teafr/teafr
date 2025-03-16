@@ -3,8 +3,8 @@
 ### Repositories navigation:
 - ASP.NET Core Web API project with Swagger: [Books API](https://github.com/teafr/Books-API)
 - ASP.NET Core Empty project with Authentication: [ShopItems API](https://github.com/teafr/ShopItems-API)
-- Windows Forms App Projects: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
-- There I gathered my little projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
+- Windows Forms App projects: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
+- Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
 
 ### I can be:
 - Software Engineer
