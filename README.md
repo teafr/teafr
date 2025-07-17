@@ -1,9 +1,10 @@
 # Teafr
 
 ### Repositories navigation:
-- ASP.NET Core Web API project with Swagger: [Books API](https://github.com/teafr/Books-API)
-- ASP.NET Core Empty project with Authentication: [ShopItems API](https://github.com/teafr/ShopItems-API)
-- Windows Forms App projects: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
+- ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
+- ASP.NET Core Web API: [Books API](https://github.com/teafr/Books-API)
+- ASP.NET Core Empty: [ShopItems API](https://github.com/teafr/ShopItems-API)
+- Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
 
 ### I can be:
