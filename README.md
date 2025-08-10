@@ -2,7 +2,7 @@
 
 ### Repositories navigation:
 - ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
-- ASP.NET Core Web API: [Books API](https://github.com/teafr/Books-API)
+- ASP.NET Core Web API and React (currently in progress, so it hasn't finished yet): [Books App](https://github.com/teafr/Books-API)
 - ASP.NET Core Empty: [ShopItems API](https://github.com/teafr/ShopItems-API)
 - Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
