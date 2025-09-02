@@ -7,7 +7,7 @@
 - Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
 
 ### In progress
-- ASP.NET Core Web API and React (currently in progress, so it hasn't finished yet): [Books App](https://github.com/teafr/Books-API)
+- ASP.NET Core Web API and React: [Books App](https://github.com/teafr/Books-API)
 - Angular and Express.js project: [Goods Store](https://github.com/teafr/GoodsStore)
 
 ### I can be:
