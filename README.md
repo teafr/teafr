@@ -2,7 +2,7 @@
 
 ### Repositories navigation:
 - ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
-- Angular and Express.js project: [Goods Store](https://github.com/teafr/GoodsStore)
+- Angular and Express.js project: [Goods Store Backend](https://github.com/teafr/GoodsStore-Backend) and [Goods Store Frontend](https://github.com/teafr/GoodsShop-Frontend)
 - Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
 
