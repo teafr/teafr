@@ -2,13 +2,12 @@
 
 ### Repositories navigation:
 - ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
-- ASP.NET Core Empty: [ShopItems API](https://github.com/teafr/ShopItems-API)
+- Angular and Express.js project: [Goods Store](https://github.com/teafr/GoodsStore)
 - Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - Small demo projects of different types: [Practices](https://github.com/teafr/Collection-of-practice)
 
 ### In progress
 - ASP.NET Core Web API and React: [Books App](https://github.com/teafr/Books-API)
-- Angular and Express.js project: [Goods Store](https://github.com/teafr/GoodsStore)
 
 ### I can be:
 - Software Engineer
@@ -24,7 +23,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=teafr&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teafr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
