@@ -9,9 +9,11 @@
 ### In progress
 - ASP.NET Core Web API and React: [Books App](https://github.com/teafr/Books-API)
 
-### I can be:
+### Roles I’m open to:
 - Software Engineer
-- Digital Artist
+- Software Developer
+- Backend Developer
+- Fullstack Developer
 
 
 ## 💻 Tech Stack
