@@ -4,6 +4,7 @@
 - ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
 - Express.js and Angular project: [Goods Store Backend](https://github.com/teafr/GoodsStore-Backend) and [Goods Store Frontend](https://github.com/teafr/GoodsShop-Frontend)
 - Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
+- You also can review my certificates: [Certificates](https://github.com/teafr/Certificates)
 
 ### Roles I’m open to:
 - Software Engineer
