@@ -1,17 +1,11 @@
-# Teafr
+# Teafr - Software Engineer
 
 ### Repositories navigation:
 - ASP.NET Core Web App MVC: [TodoListWebApp](https://github.com/teafr/TodoListWebApplication)
-- Express.js and Angular project: [Goods Store Backend](https://github.com/teafr/GoodsStore-Backend) and [Goods Store Frontend](https://github.com/teafr/GoodsShop-Frontend)
+- ASP.NET Core Web API: [GameStore](https://github.com/teafr/GameStore)
+- Express.js + Angular: [Goods Store Backend](https://github.com/teafr/GoodsStore-Backend) and [Goods Store Frontend](https://github.com/teafr/GoodsShop-Frontend)
 - Windows Forms Apps: [Future predictor](https://github.com/teafr/Predictor-APP), [Text editor](https://github.com/teafr/Text-Editor-app)
 - My certificates: [Certificates](https://github.com/teafr/Certificates)
-
-### Roles I’m open to:
-- Software Engineer
-- Software Developer
-- Backend Developer
-- Fullstack Developer
-
 
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
